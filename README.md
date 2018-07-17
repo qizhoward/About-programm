@@ -1,7 +1,7 @@
 # About-programm
 
-About Power Jurisdiction Manifest...admin... </br>
-     number Symbol ... </br>
+  About Power Jurisdiction Manifest...admin... </br>
+  
  ---------------------------------------------------------------------------------------------------------------------                                             
       if has a different number...different symbol...        |
          use loop take up and first...  like as game FPS...  |
